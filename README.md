@@ -1,5 +1,4 @@
 🔭 I'm an undergraduate student in CTI - Colégio Técnico Industrial UNESP Bauru. Looking forward to be a full stack programmer, or maybe a teacher!
-🤗 Now discovering the beautiful world of backend.
 
 🎧 Love playing cello in my free time! 🎻
 
