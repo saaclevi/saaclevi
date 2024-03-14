@@ -1,6 +1,7 @@
-🔭 I'm an undergraduate student in CTI - Colégio Técnico Industrial UNESP Bauru. Looking forward to be a full stack programmer, or maybe a teacher!
+🔭 Hello, I'm Isaac Levi, a front-end developer looking to be a full stack programmer or a teacher, who knows.
 
-🎧 Love playing cello in my free time! 🎻
+🎧 Love producing some tunes in my free time! 🎻
+https://on.soundcloud.com/WN1PC
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saaclevi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
