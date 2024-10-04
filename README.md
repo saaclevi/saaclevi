@@ -1,4 +1,6 @@
-🔭 Hello, I'm Isaac Levi, a front-end developer looking to be a full stack programmer or a teacher, who knows.
+🔭 Hello, I'm Isaac Levi, computer science student at unesp bauru.
+i love to produce music
+currently working in game dev and a analog synth.
 
 🎧 Love producing some tunes in my free time! 🎻
 https://on.soundcloud.com/WN1PC
