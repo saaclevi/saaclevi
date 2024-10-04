@@ -1,4 +1,4 @@
-🔭 Hello, I'm Isaac Levi, computer science student at unesp bauru.
+🔭 Hello, I'm Isaac Levi, a computer science student at unesp bauru.
 i love to produce music
 currently working in game dev and a analog synth.
 
