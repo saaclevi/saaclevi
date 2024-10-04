@@ -1,8 +1,7 @@
-🔭 Hello, I'm Isaac Levi, a computer science student at unesp bauru.
-i love to produce music
-currently working in game dev and a analog synth.
+🔭 hello, I'm Isaac Levi, a computer science student at unesp bauru.
+I love to produce music and I'm
+currently working in game dev and in an analog synth.
 
-🎧 Love producing some tunes in my free time! 🎻
 https://on.soundcloud.com/WN1PC
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saaclevi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
